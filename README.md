@@ -7,7 +7,7 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
-## Website
+## Website adding conflict
 https://nitrotap.github.io/run-buddy/
 
 ## Contribution
