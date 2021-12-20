@@ -3,7 +3,7 @@
 ## Purpose
 A website that offers fitness training services.
 
-## Built With making conflict heregit 
+## Built With Git 
 * HTML
 * CSS
 
