@@ -482,7 +482,7 @@ section {
   header {
     padding-bottom: 0;
     justify-content: center;
-    position: relative;
+    position: sticky;
   }
 
   header h1 {
@@ -528,6 +528,9 @@ section {
 }
 
 @media screen and (max-width: 768px) {
+  header {
+    position: relative;
+  }
   section {
     padding: 30px 15px;
   }
