@@ -442,13 +442,8 @@ section {
 
 }
 
-.contact-form input:focus, .contact-form textarea:focus {
+.contact-form input:focus, .contact-form textarea:focus, .contact-form input:hover, .contact-form textarea:hover {
   background-color: rgba(255,255,255, 1);
-}
-
-.contact-form input:hover, .contact-form textarea:hover {
-  background-color: rgba(255,255,255, 1);
-
 }
 
 .contact-form button {
@@ -487,7 +482,7 @@ section {
   header {
     padding-bottom: 0;
     justify-content: center;
-    position: relative;
+    position: sticky;
   }
 
   header h1 {
@@ -533,6 +528,9 @@ section {
 }
 
 @media screen and (max-width: 768px) {
+  header {
+    position: relative;
+  }
   section {
     padding: 30px 15px;
   }
