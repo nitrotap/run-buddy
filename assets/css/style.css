@@ -465,7 +465,7 @@ section {
 /* REACH OUT STYLES END */
 
 
-/* UTILITY CLASSES */
+/* UTILITY STYLES */
 .text-left {
   text-align: left;
 }
@@ -477,6 +477,7 @@ section {
 .flex-row {
   display: flex;
 }
+/* END UTILITY STYLES*/
 
 @media screen and (max-width: 980px) {
   header {
