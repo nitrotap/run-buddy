@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://nitrotap.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [Kartik Jevaji]
+Made with ❤️ by Kartik Jevaji
